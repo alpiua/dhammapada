@@ -3,6 +3,8 @@
 
 This repository hosts a modernized version of the historical dhammapada.kiev.ua website, rebuilt on Nuxt 4.
 
+It is located on https://dhammapada.pp.ua
+
 ## What’s inside
 
 - __Nuxt 4.0.3__
